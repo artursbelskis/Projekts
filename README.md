@@ -3,7 +3,7 @@
 ## Projekta apraksts
 Man patīk sports un īpaši futbols, es visu laiku sekoju līdzi spēļu rezultātiem. Mana mīļākā komanda ir "Barcelona", tāpēc es nolēmu uzrakstīt kodu, kas nolasīs La Liga turnīra tabulas, kur spēlē "Barcelona". Kods nolasa katras komandas (20 komandas) pozīciju, nosaukumu un punktus, pēc tam tas saglabā nolasītos datus divās kopijās csv un xlsx failos. Tas ļauj man ātri apskatīt interesējošos datus, neieejot tīmekļa vietnē. Saglabātos failus var arī neatvērt, bet manuāli ievadīt komandas nosaukumu, un tas sniegs jums attiecīgās komandas pozīciju, nosaukumu un punktu skaitu.
 
-## kādas Python bibliotēkas un kāpēc tiek izmantotas projekta izstrādes laikā?
+## Kādas Python bibliotēkas un kāpēc tiek izmantotas projekta izstrādes laikā?
 Es izmantoju 4 Python bibliotēkas, lai šis kods darbotos un veiktu nepieciešamos uzdevumus.
 1. requests
 2. BeautifulSoup
