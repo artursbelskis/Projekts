@@ -16,3 +16,5 @@ Tad es šos datus saglabāju csv failā, izmantojot csv bibliotēku, un saglabā
 
 ## Rrogrammatūras izmantošanas metodes
 Jebkurā laikā es varu palaist programmu, kas atjaunina visus datus un sniedz jaunākos rezultātus, man vairs nav jāatver pārlūkprogramma, jāiet uz pareizo vietni un starp visu informāciju jāmeklē kopvērtējuma tabulu. Tas ievērojami samazinās patērēto laiku, arī nākotnē šo kodu var uzlabot, lai rādītu ne tikai tabulu, bet arī, teiksim, rezultātus un gaidāmās spēles.
+
+## Es rakstīju un izstrādāju kodu VSC. Es augšupielādēju pilnībā pabeigtu versiju GitHub, tāpēc jūs nevarat redzēt izmaiņas un darba gaitu.
