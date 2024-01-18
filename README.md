@@ -9,6 +9,7 @@ Es izmantoju 4 Python bibliotēkas, lai šis kods darbotos un veiktu nepiecieša
 2. BeautifulSoup
 3. csv
 4. pandas
+
 Bibliotēka requests ļauj strādāt ar HTTP pieprasījumiem, ar tās palīdzību es atvēru nepieciešamo url adresi un ieguvu lapas HTML kodu. Pēc tam saņemtie dati tiek nodoti citai bibliotēkai BeautifulSoup. 
 Ar BeautifulSoup palīdzību es analizēju lapas HTML kodu. Es atradu vajadzīgos datus. 
 Tad es šos datus saglabāju csv failā, izmantojot csv bibliotēku, un saglabāju tos xlsx failā, izmantojot pandas.
